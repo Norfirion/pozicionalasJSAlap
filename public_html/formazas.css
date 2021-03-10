@@ -47,4 +47,7 @@ label {
     font-weight:bold;
     font-size:40px;
         padding:0 1px 0 13px;
+}#szoveg{
+    border: 5px solid green;
+    padding:10px;
 }
